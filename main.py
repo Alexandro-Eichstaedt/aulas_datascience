@@ -4,5 +4,12 @@ import numpy as np
 
 
 print('meu primeiro commit')
-print('2')
-print('3')
+
+# git checkout -b "develop"
+print('trabalhando com develop')
+
+#git checkout master -- para retornar
+
+# subindo arquivos para a nuuvem
+# git add nomepasta.py
+# git commit -m  "frase"
